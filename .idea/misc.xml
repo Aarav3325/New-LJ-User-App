@@ -1,0 +1,73 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable-v24/rect_back.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable-v24/tab_text_color_selector.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/bg_overlay.xml" value="0.2265" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/drawable_resource.xml" value="0.121" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/edittext_search_background.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/ic_back.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/ic_baseline_computer_24.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/ic_close.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/ic_color.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/ic_search.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/selected_tab.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/tab_rect.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/tab_selector.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/drawable/tab_text_selector.xml" value="0.2275" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_app_info.xml" value="0.25" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_courses_info_tab.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_courses_tab.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_courses_tab2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_developer.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_ebook.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_forget_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_full_image_view.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_image_upload.xml" value="0.25" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_my_account.xml" value="0.264" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_pdf_viewer.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_upload_image.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/activity_user_info.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/app_info_updated.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/course_item_layout.xml" value="0.1721311475409836" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/cse_course_info.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/custom_tab.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/drawer_header.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/ebook_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/faculty_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_courses_tab.xml" value="0.1" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_cse.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_faculty.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_home.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_image.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_notice.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_one.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/fragment_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/gallery_image.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/no_data_found.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/profile_activity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/shimmer_ebook.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/shimmer_for_ebook.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/layout/slider_item_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/menu/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/menu/navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Aarav Halvadiya/ApkProjects/LJUUserApp/app/src/main/res/menu/option_menu.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

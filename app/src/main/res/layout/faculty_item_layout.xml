@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    android:backgroundTint="#a4bc68"
+    android:elevation="15dp"
+    android:layout_gravity="center_horizontal"
+    app:cardElevation="25dp"
+    app:cardMaxElevation="25dp"
+    app:cardPreventCornerOverlap="true"
+    android:outlineAmbientShadowColor="@color/colorPrimaryDark"
+    android:outlineSpotShadowColor="@color/colorPrimaryDark"
+    app:cardCornerRadius="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/text_margin"
+        android:background="#a4bc68"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5"
+                android:paddingLeft="12dp"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherName"
+                    android:text="Aarav Halvadiya"
+                    android:textColor="#021339"
+                    android:fontFamily="@string/regular"
+                    android:textSize="@dimen/title_size"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherPost"
+                    android:text="HOD"
+                    android:textColor="#021339"
+                    android:fontFamily="@string/regular"
+                    android:textSize="@dimen/title_size"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherEmail"
+                    android:text="aaravhalvadia@gmail.com"
+                    android:textColor="#021339"
+                    android:gravity="start"
+                    android:layout_gravity="start"
+                    android:fontFamily="@string/regular"
+                    android:textSize="16sp"/>
+
+
+
+            </LinearLayout>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/teacherImage"
+                android:layout_width="80dp"
+                android:layout_height="95dp"
+                android:layout_gravity="start"
+                android:src="@drawable/male_avtar"
+                android:layout_weight="0.5"
+                android:layout_marginTop="30dp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

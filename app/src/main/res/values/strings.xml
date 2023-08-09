@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">New LJIET</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/poppins_bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/poppins_regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/poppins_light</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">New L J Institute of Engineering and Technology (NLJIET) is an AICTE approved and GTU affiliated academic institution specifically dedicated to Computer Science and Engineering, Computer Science and Engineering (specialisation in Artificial Intelligence and Machine Learning) branch. The New LJIET is the Engineering Institute that has emphasized upon the digital revolution by including the specialization features. It is situated in the heart of the Ahmedabad city in the prime location adjacent to Sindhu Bhavan Road. New LJIET is the result of vision by well known educationist Principal B. M Peerzada, of dynamism of its Vice President Prof. Manishbhai Shah and of precision of Shri Girishbhai Patel. New LJIET is very well focused on providing best quality education by teaching theoretical aspects along with practical hands on learning. Here the students will not only study the engineering curriculum designed by the university, but also they will learn to develop the application programs to solve real world problems ,they will learn the implementation of core engineering components along with a specialisation approach, they will undergo a complete training  to bridge the gap between the industrial requirement and skill sets and will explore the emerging technologies . New LJIET encourages its students to participate in curricular, extracurricular, hackathon events and state as well as national competitions. The Institute’s aim is to enhance the  learning beyond conventional teaching, which will result in increment of student’s knowledge quotient and will boost their career growth.</string>
+    <string name="lj_1">New LJIET offers Computer Science and Engineering Program with intake of 180 students. This course covers all the core subjects of computer engineering as well as computer science. Computer Science and Engineering is the mainstay of the booming IT industry. In the race to bring excellence in technological advancements, in most of the countries, the need of having competent and agile Computer Science Engineers has also escalated.
+    \n
+        \nNew LJIET offers Computer Science and Engineering with specialisation in Artificial Intelligence and Machine Learning(AI-ML) with intake of 60 students .This course covers all the core subjects of computer engineering as well as computer science with a dedicated focus on the application of  emerging technological field AI and ML. In this course students will learn to create human intelligence on the computer device that can learn , plan and solve problems autonomously.
+
+    </string>
+    <string name="cse_description">
+    New LJIET offers Computer Science and Engineering Program with intake of 180 students. This course covers all the core subjects of computer engineering as well as computer science. Computer Science and Engineering is the mainstay of the booming IT industry. In the race to bring excellence in technological advancements, in most of the countries, the need of having competent and agile Computer Science Engineers has also escalated.\n
+    \nThe program focuses on providing the students with the necessary skills to be effective contributors in a quality-oriented, customer-focused environment. An open-ended, design-oriented approach for solving engineering problems, Teamwork, communication skills, an interdisciplinary approach to problem solving and a research attitude are some of the skills that the students develop.
+\n
+    \nFrom computer architecture and organization to software testing, there are various subjects one has to study during this course. Applicants also study cloud computing, database management systems, compiler design, computer networks, data structures and operating systems.
+</string>
+
+    <string name="cse_scope">
+        There are two reasons for choosing this stream. Number one is, the most successful companies can become your landing ground. And number two, you will have multiple career options.
+
+ \n
+        \nThis course can expect employment opportunities in following job roles:
+\n
+        \n
+• Software Developer\n
+• Software Engineer\n
+• Web Developer\n
+• Web Designer\n
+• Computer Hardware engineer\n
+• System Designer\n
+• Computer System Analyst\n
+• Database Administrator\n
+• Computer Network Architect
+    </string>
+
+    <string name="cse_ai_ml_des">
+        New LJIET offers Computer Science and Engineering with specialisation in Artificial Intelligence and Machine Learning(AI-ML) with intake of 60 students .This course covers all the core subjects of computer engineering as well as computer science with a dedicated focus on the application of  emerging technological field AI and ML. In this course students will learn to create human intelligence on the computer device that can learn , plan and solve problems autonomously.
+        \n\nThe curriculum of this course is specially designed to teach the students various computer algorithms and applications that improves the accuracy of the devices beyond limits through various training models.Hence this course will be a complete combination of Supervised, Unsupervised, Semi supervised and Re-reinforcement learning along with the core Computer science concepts.The main focus of this course will be on Problem Solving, Reasoning, Model Planning, Natural Language Processing, Pattern Recognition and Fuzzy Logic.
+    </string>
+
+    <string name="cse_ai_ml_scope">
+        Artificial Intelligence and Machine Learning , projects its insights on various Prediction Modelling, Pattern Identifications as well as Detection of Objects. AI and ML are going to create tremendous boost in every job sector in the future. It will create emerging career paths in the field of  Data Engineering, Data and Image Analysis, Pattern Recognition, Speech Recognition, Data Processing, Software Development, Program Management and Gesture Recognition .The demand for AI and ML certified professionals will grow along with the developments in all other Digital Technologies.
+        \n
+        \nArtificial Intelligence and Machine Learning experts can expect employment opportunities in following job roles.
+        \n
+        \n
+• Artificial Intelligence Engineer\n
+• Machine Learning Engineer\n
+• Data Engineer\n
+• Data Scientist\n
+• Data Analyst\n
+• Software Engineer
+    </string>
+
+    <string name="title_activity_courses_tab">CoursesTab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
