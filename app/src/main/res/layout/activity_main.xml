@@ -90,7 +90,7 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-...WindowBackground...
+
 
 
     <com.google.android.material.navigation.NavigationView

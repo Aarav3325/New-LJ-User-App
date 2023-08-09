@@ -8,7 +8,7 @@
     android:backgroundTint="@color/grey2"
     android:layout_height="wrap_content">
 
-    ...wrap..height linear
+
 
     <LinearLayout
         android:layout_width="match_parent"
